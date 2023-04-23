@@ -1,0 +1,22 @@
+img {
+  position: relative;
+}
+.text {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  color: #fff;
+}
+ul {
+  list-style: none;
+  display: flex;
+    gap: 30px;
+}
+.privacy {
+  display: flex;
+}
+.privacy-text {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px 20px 0px 20px;
+}
